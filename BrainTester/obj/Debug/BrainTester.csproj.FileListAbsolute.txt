@@ -1,0 +1,16 @@
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\ResolveAssemblyReference.cache
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\BrainTester.Form1.resources
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\BrainTester.Properties.Resources.resources
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\BrainTester.csproj.GenerateResource.Cache
+E:\C#.NetProjects\BrainTester\BrainTester\bin\Debug\BrainTester.exe
+E:\C#.NetProjects\BrainTester\BrainTester\bin\Debug\BrainTester.pdb
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\BrainTester.exe
+E:\C#.NetProjects\BrainTester\BrainTester\obj\Debug\BrainTester.pdb
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\BrainTester.exe
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\BrainTester.pdb
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\bin\Debug\BrainTester.exe
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\bin\Debug\BrainTester.pdb
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\ResolveAssemblyReference.cache
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\BrainTester.frMain.resources
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\BrainTester.Properties.Resources.resources
+E:\__C#.NET Folders\C#.Net Projects\BrainTester\BrainTester\obj\Debug\BrainTester.csproj.GenerateResource.Cache
